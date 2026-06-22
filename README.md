@@ -1,5 +1,3 @@
-# Professional Self Introduction
-
 ## About Me
 
 I am **Zeba Fathima**, a third-year B.Tech student in **Information Technology** with a strong interest in software development and problem-solving. I have a solid foundation in **Python, HTML, CSS, JavaScript, React, and SQL**, and I am continuously enhancing my technical expertise through hands-on projects and continuous learning.
