@@ -1,6 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EFCore.BulkExtensions;
 using RetailInventory.Data;
-using RetailInventory.DTOs;
+using RetailInventory.Models;
 
 namespace RetailInventory
 {
@@ -10,23 +10,26 @@ namespace RetailInventory
         {
             using var context = new AppDbContext();
 
-            var products = context.Products
-                .Include(p => p.Category)
-                .Select(p => new ProductDTO
-                {
-                    Name = p.Name,
-                    Price = p.Price,
-                    CategoryName = p.Category.Name
-                })
-                .ToList();
-
-            Console.WriteLine("Product DTOs:");
-            Console.WriteLine();
+            // Bulk Update
+            var products = context.Products.ToList();
 
             foreach (var product in products)
             {
-                Console.WriteLine($"{product.Name} - ₹{product.Price} - {product.CategoryName}");
+                product.Price += 100;
             }
+
+            context.BulkUpdate(products);
+
+            Console.WriteLine("Bulk Update Completed!");
+
+            // Bulk Delete
+            var deleteProducts = context.Products
+                                        .Where(p => p.Price > 5000)
+                                        .ToList();
+
+            context.BulkDelete(deleteProducts);
+
+            Console.WriteLine("Bulk Delete Completed!");
 
             Console.ReadKey();
         }
