@@ -1,0 +1,341 @@
+/* ===========================
+   Global Styles
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    margin:20px;
+    background-image:url("Images/background.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
+/* ===========================
+   Navigation
+=========================== */
+
+nav{
+    background:#0d47a1;
+    padding:15px;
+    margin-bottom:20px;
+    border-radius:6px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    font-size:20px;
+    font-weight:bold;
+    margin-right:15px;
+}
+
+nav a:hover{
+    color:#00ffcc;
+    text-decoration:underline;
+}
+
+/* ===========================
+   Welcome Banner
+=========================== */
+
+#welcomeBanner{
+    background:rgba(0,0,180,0.75);
+    color:white;
+    padding:25px;
+    text-align:center;
+    border-radius:10px;
+}
+
+#mainHeader{
+    font-size:40px;
+    color:white;
+}
+
+#welcomeMessage{
+    color:#ffff66;
+}
+
+#welcomeBanner p{
+    color:white;
+    text-align:center;
+}
+
+/* ===========================
+   Headings
+=========================== */
+
+.highlight{
+    background:linear-gradient(to right,#ff9800,#ffee58);
+    color:black;
+    padding:12px;
+    border-radius:6px;
+    font-size:34px;
+    font-weight:bold;
+}
+
+/* ===========================
+   Home Paragraph
+=========================== */
+
+#home p{
+    color:white;
+    font-size:22px;
+    font-weight:bold;
+    text-align:center;
+    background:rgba(0,0,0,0.5);
+    padding:15px;
+    border-radius:8px;
+    margin-top:15px;
+}
+
+/* ===========================
+   Highlight Text
+=========================== */
+
+#home span{
+    background:#ffe54c;
+    color:black;
+    padding:6px 12px;
+    border-radius:5px;
+    font-weight:bold;
+}
+
+/* ===========================
+   Event Cards
+=========================== */
+
+.eventCard{
+    background:rgba(255,255,255,0.92);
+    color:black;
+    border:2px solid #4caf50;
+    padding:20px;
+    margin:20px 0;
+    border-radius:10px;
+    font-style:italic;
+    font-size:28px;
+    box-shadow:0 2px 8px rgba(0,0,0,.3);
+}
+
+/* ===========================
+   Images
+=========================== */
+
+.imageStyle{
+    width:200px;
+    height:150px;
+    border:3px solid navy;
+    border-radius:10px;
+}
+
+/* ===========================
+   Table
+=========================== */
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+    background:rgba(255,255,255,.92);
+}
+
+th,
+td{
+    border:2px solid #444;
+    padding:10px;
+    text-align:center;
+}
+
+th{
+    background:#1565c0;
+    color:white;
+}
+
+tr:nth-child(even){
+    background:#eeeeee;
+}
+
+/* ===========================
+   Form
+=========================== */
+
+form{
+    width:500px;
+    padding:20px;
+    margin-top:20px;
+    background:rgba(255,255,255,.92);
+    border:2px solid #2196f3;
+    border-radius:10px;
+}
+
+label{
+    color:black;
+    font-weight:bold;
+}
+
+input,
+select,
+textarea{
+    width:100%;
+    padding:10px;
+    margin-top:5px;
+    margin-bottom:15px;
+}
+
+input:focus,
+select:focus,
+textarea:focus{
+    outline:3px solid orange;
+}
+
+button{
+    background:#003cff;
+    color:white;
+    padding:10px 16px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+button:hover{
+    background:#001ea8;
+}
+
+/* ===========================
+   General Text
+=========================== */
+
+h1{
+    color:white;
+    font-size:40px;
+}
+
+h2{
+    color:darkblue;
+}
+
+h3{
+    color:black;
+}
+
+p{
+    color:black;
+}
+
+/* ===========================
+   Video
+=========================== */
+
+#videoMessage{
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    margin-top:10px;
+}
+
+/* ===========================
+   Contact
+=========================== */
+
+#contact p{
+    color:white;
+    background:rgba(0,0,0,.6);
+    padding:10px;
+    border-radius:6px;
+}
+
+/* ===========================
+   News
+=========================== */
+
+.newsArticle{
+    column-count:2;
+    column-gap:30px;
+    column-rule:1px solid white;
+
+    background:rgba(255,255,255,.92);
+
+    color:black;
+
+    padding:20px;
+
+    border-radius:10px;
+
+    font-size:18px;
+
+    text-align:justify;
+}
+
+/* ===========================
+   Hidden Demo
+=========================== */
+
+.hiddenBox{
+    visibility:hidden;
+}
+
+.noneBox{
+    display:none;
+}
+
+/* ===========================
+   Footer
+=========================== */
+
+footer{
+    margin-top:30px;
+    text-align:center;
+    color:white;
+    background:rgba(0,0,0,.7);
+    padding:15px;
+    border-radius:8px;
+}
+
+/* ===========================
+   Responsive
+=========================== */
+
+@media screen and (max-width:768px){
+
+    nav{
+        display:flex;
+        flex-direction:column;
+        gap:10px;
+    }
+
+    .imageStyle{
+        width:100%;
+        height:auto;
+    }
+
+    form{
+        width:100%;
+    }
+
+    #mainHeader{
+        font-size:28px;
+    }
+
+    .highlight{
+        font-size:24px;
+    }
+
+    #home p{
+        font-size:18px;
+    }
+
+    .eventCard{
+        font-size:20px;
+    }
+
+    .newsArticle{
+        column-count:1;
+    }
+}

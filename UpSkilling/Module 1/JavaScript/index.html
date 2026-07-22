@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Local Community Event Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body onload="loadEvent(); welcomeUser();">
+
+    <!-- Navigation -->
+
+    <nav>
+        <a href="#home">Home</a> |
+        <a href="#events">Events</a> |
+        <a href="#contact">Contact</a> |
+        <a href="help.html" target="_blank">Help</a>
+    </nav>
+    <div id="welcomeBanner">
+
+    <h1 id="mainHeader">
+Welcome to the Local Community Event Portal
+</h1>
+
+<h2 id="welcomeMessage">Welcome Visitor</h2>
+
+<button onclick="changeWelcomeMessage()">
+    Change Welcome Message
+</button>
+<button onclick="changeHeadingColor()">
+    Change Heading Color
+</button>
+<button onclick="changeBackground()">
+    Change Background
+</button>
+<button onclick="hideMessage()">
+    Hide Message
+</button>
+
+<button onclick="showMessage()">
+    Show Message
+</button>
+
+    <p>
+
+        Register today and enjoy
+
+        <span style="color:red;font-weight:bold;">
+            20% Discount
+        </span>
+
+        on selected events.
+
+    </p>
+
+</div>
+
+<hr>
+
+    <!-- Main -->
+
+    <section id="home">
+
+    <h2 class="highlight">Home</h2>
+
+    <p>
+
+        Welcome to our
+
+        <span class="highlight">
+            Local Community Event Portal
+        </span>
+
+        where residents can register for exciting events.
+
+    </p>
+
+</section>
+<h2>Available Events</h2>
+
+<div id="eventContainer"></div>
+
+<button onclick="displayEvents()">Show Events</button>
+<h2>Search Event</h2>
+
+<input
+    type="text"
+    id="searchBox"
+    placeholder="Search by event name"
+    onkeydown="searchEvent()">
+
+<p id="searchResult"></p>
+<h2>Latest Events (API)</h2>
+
+<button onclick="loadEvents()">Load Events</button>
+
+<p id="loading"></p>
+
+<ul id="apiEvents"></ul>
+
+<section id="events">
+
+<h2 class="highlight">Events</h2>
+
+<div class="eventCard">
+Annual Marathon
+</div>
+
+<div class="eventCard">
+Food Festival
+</div>
+
+<div class="eventCard">
+Music Concert
+</div>
+
+</section>
+
+<section>
+
+<h2 class="highlight">
+Community Event Gallery
+</h2>
+
+<table>
+
+<caption>
+Past Community Events
+</caption>
+
+<tr>
+
+<th>Event 1</th>
+<th>Event 2</th>
+<th>Event 3</th>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img
+src="Images/event1.jpg"
+alt="Marathon"
+title="Annual Marathon"
+class="imageStyle"
+ondblclick="enlargeImage(this)">
+
+<br>
+
+Marathon
+
+</td>
+
+<td>
+
+<img src="Images/event2.jpg"
+alt="Food Festival"
+title="Food Festival"
+class="imageStyle"
+ondblclick="enlargeImage(this)">
+
+<br>
+
+Food Festival
+
+</td>
+
+<td>
+
+<img src="Images/event3.jpg"
+alt="Music Concert"
+title="Music Concert"
+class="imageStyle"
+ondblclick="enlargeImage(this)">
+
+<br>
+
+Music Concert
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="Images/event4.jpg"
+alt="Tree Plantation"
+title="Tree Plantation"
+class="imageStyle"
+ondblclick="enlargeImage(this)">
+
+<br>
+
+Tree Plantation
+
+</td>
+
+<td>
+
+<img src="Images/event5.jpg"
+alt="Blood Donation"
+title="Blood Donation"
+class="imageStyle"
+ondblclick="enlargeImage(this)">
+
+<br>
+
+Blood Donation
+
+</td>
+
+<td>
+
+<img src="Images/event6.jpg"
+alt="Cultural Dance"
+title="Cultural Dance"
+class="imageStyle"
+ondblclick="enlargeImage(this)">
+
+<br>
+
+Cultural Dance
+
+</td>
+
+</tr>
+
+</table>
+
+</section>
+<section>
+
+<h2 class="highlight">
+Event Promo Video
+</h2>
+
+<video
+id="promoVideo"
+width="500"
+controls
+oncanplay="videoReady()">
+
+<source
+src="Videos/event.mp4"
+type="video/mp4">
+
+Your browser does not support the video tag.
+
+</video>
+
+<p id="videoMessage"></p>
+
+</section>
+<section>
+
+<h2 class="highlight">
+Event Registration
+</h2>
+
+<form id="registrationForm" onsubmit="validateForm(event)">
+
+<label>
+Full Name
+</label>
+
+<input
+type="text"
+id="name"
+name="name"
+placeholder="Enter your name"
+required
+autofocus>
+
+<label>
+Email
+</label>
+
+<input
+type="email"
+id="email"
+name="email"
+placeholder="Enter your email"
+required>
+<label>
+Phone Number
+</label>
+
+<input
+type="tel"
+id="phone"
+name="phone"
+placeholder="Enter Phone Number"
+onblur="validatePhone(this)"
+required>
+
+<label>
+Event Date
+</label>
+
+<input
+type="date"
+required>
+
+<label>
+Select Event
+</label>
+
+<select
+id="event"
+name="event"
+required
+onchange="saveEvent(); showFee()">
+
+<option value="">
+Choose Event
+</option>
+
+<option>Marathon</option>
+<option>Food Festival</option>
+<option>Music Concert</option>
+<option>Tree Plantation</option>
+<option>Blood Donation</option>
+<option>Cultural Dance</option>
+
+</select>
+<p id="formError" style="color:red;"></p>
+<p id="fee"></p>
+<button
+type="button"
+onclick="clearPreferences()">
+
+Clear Preferences
+
+</button>
+
+<label>
+Message
+</label>
+
+<textarea
+
+id="feedback"
+
+rows="5"
+
+placeholder="Enter your feedback"
+
+onkeyup="countCharacters()"
+
+required>
+
+</textarea>
+
+<p id="count">
+
+Characters : 0
+
+</p>
+<button type="submit">
+Register
+</button>
+
+<br><br>
+
+<output id="msg"></output>
+
+</form>
+
+</section>
+<section id="contact">
+
+<h2 class="highlight">
+Contact
+</h2>
+
+<p>
+Email: community@example.com
+</p>
+
+</section>
+    <section>
+
+<h2 class="highlight">
+Visibility Demo
+</h2>
+
+<div class="hiddenBox">
+This text uses visibility:hidden.
+</div>
+
+<div class="noneBox">
+This text uses display:none.
+</div>
+
+</section>
+    <section>
+
+<h2 class="highlight">
+Find Nearby Events
+</h2>
+
+<button
+type="button"
+onclick="findLocation()">
+
+Find My Location
+
+</button>
+
+<p id="location"></p>
+
+</section>
+<section>
+<h2>jQuery Demo</h2>
+
+<button id="toggleNews">
+    Show / Hide Community News
+</button>
+<h2 class="highlight">
+Community News
+</h2>
+
+<div class="newsArticle">
+
+The Local Community Event Portal continues to bring residents together through cultural programs, sports activities, environmental initiatives, food festivals, and awareness campaigns. Volunteers and community leaders work together to organize meaningful events that strengthen neighborhood relationships. Residents are encouraged to participate, register online, and contribute ideas for future community activities.
+
+</div>
+
+</section>
+
+    <!-- Footer -->
+
+    <footer>
+        <p>&copy; 2026 Local Community Event Portal</p>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="script.js"></script>
+</body>
+
+</html>
