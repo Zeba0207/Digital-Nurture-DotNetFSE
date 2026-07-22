@@ -1,0 +1,352 @@
+/* Body Styles */
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family:'Poppins',sans-serif;
+
+    margin:20px;
+
+    background-color:#e8f5e9;
+
+    background-image:url("Images/background.jpg");
+
+    background-size:cover;
+
+    background-repeat:no-repeat;
+
+    background-attachment:fixed;
+
+}
+
+/* Welcome Banner */
+
+
+#welcomeBanner{
+
+    background:rgba(0,0,255,0.75);
+
+    color:#ffffff;
+
+    padding:20px;
+
+    text-align:center;
+
+    border-radius:10px;
+
+}
+
+/* Section Headings */
+
+.highlight{
+
+    background:linear-gradient(to right,#ff9800,#ffeb3b);
+
+    padding:10px;
+
+    color:#000;
+
+    font-weight:bold;
+
+    border-radius:6px;
+
+}
+
+/* Gallery Images */
+
+.imageStyle{
+    width:200px;
+    height:150px;
+    border:3px solid navy;
+    border-radius:10px;
+}
+
+/* Registration Form */
+
+form{
+
+    width:500px;
+
+    margin-top:20px;
+
+    padding:20px;
+
+    border:2px solid #2196f3;
+
+    border-radius:10px;
+
+    background:rgba(255,255,255,0.9);
+
+}
+/* Form Controls */
+
+input,
+select,
+textarea{
+    width:100%;
+    padding:8px;
+    margin-top:5px;
+    margin-bottom:15px;
+}
+
+/* Form Focus */
+
+input:focus,
+select:focus,
+textarea:focus{
+
+    outline:3px solid orange;
+
+}
+
+/* Buttons */
+
+button{
+    background:blue;
+    color:white;
+    padding:10px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:darkblue;
+}
+
+
+
+/* Element Selector */
+
+h2{
+    color:darkblue;
+    margin:15px 0;
+}
+
+/* ID Selector */
+
+#mainHeader{
+    font-size:32px;
+    text-align:center;
+}
+
+/* Class Selector */
+
+/* Event Card */
+
+.eventCard{
+
+    background:rgba(255,255,255,0.8);
+
+    border:2px solid #4caf50;
+
+    padding:20px;
+
+    margin:20px 0;
+
+    border-radius:10px;
+
+    font-style:italic;
+
+    box-shadow:0 2px 8px rgba(0,0,0,0.2);
+
+}
+
+/* Grouping Selector */
+
+h3,
+p{
+    font-family:Verdana,sans-serif;
+    color:#333;
+    font-size:18px;
+    line-height:1.8;
+    text-align:justify;
+}
+h1{
+
+    font-size:36px;
+
+    font-weight:600;
+
+    letter-spacing:2px;
+
+    text-transform:uppercase;
+
+}
+
+/* Navigation Links */
+
+nav{
+
+    background:#0d47a1;
+
+    padding:15px;
+
+    margin-bottom:20px;
+
+}
+
+nav a:link{
+
+    color:white;
+
+    text-decoration:none;
+
+}
+
+nav a:visited{
+
+    color:#ffeb3b;
+
+}
+
+nav a:hover{
+
+    color:#00ffcc;
+
+    text-decoration:underline;
+
+}
+
+nav a:active{
+
+    color:red;
+
+}
+
+/* Navigation List */
+
+nav ul{
+
+    list-style-type:none;
+
+    list-style-position:inside;
+
+}
+
+nav li{
+
+    display:inline-block;
+
+    margin-right:20px;
+
+    padding:5px;
+
+}
+/* Table Styling */
+
+table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+    text-align:center;
+
+    margin-top:20px;
+
+}
+
+th,
+td{
+
+    border:2px solid #444;
+
+    padding:10px;
+
+}
+
+th{
+
+    background:#1565c0;
+
+    color:white;
+
+}
+
+tr:nth-child(even){
+
+   
+    background:#eeeeee;
+
+}
+/* Visibility Demo */
+
+.hiddenBox{
+
+    visibility:hidden;
+
+}
+
+.noneBox{
+
+    display:none;
+
+}
+
+/* News Section */
+
+.newsArticle{
+
+    column-count:2;
+
+    column-gap:30px;
+
+    column-rule:1px solid gray;
+
+    margin-top:20px;
+
+    text-align:justify;
+
+}
+/* Responsive Design */
+
+@media screen and (max-width:768px){
+
+    nav{
+
+        display:flex;
+
+        flex-direction:column;
+
+        gap:10px;
+
+    }
+
+    .imageStyle{
+
+        width:100%;
+
+        height:auto;
+
+    }
+
+    form{
+
+        width:100%;
+
+    }
+
+    h1{
+
+        font-size:28px;
+
+    }
+
+    h2{
+
+        font-size:22px;
+
+    }
+
+    p{
+
+        font-size:16px;
+
+    }
+
+}
