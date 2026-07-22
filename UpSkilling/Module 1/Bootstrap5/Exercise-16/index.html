@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Exercise 16</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container mt-5">
+
+    <h2 class="text-center mb-5">
+        Exercise 16.1 - Position Utilities
+    </h2>
+
+    <div class="position-relative bg-light border rounded p-5 demo-box">
+
+        <h4>Parent Container</h4>
+
+        <p>
+            This is a position-relative container.
+        </p>
+
+        <button class="btn btn-danger position-absolute top-0 end-0 m-3">
+            Close
+        </button>
+
+    </div>
+
+    <hr class="my-5">
+
+    <h2 class="text-center mb-5">
+        Exercise 16.2 - Notification Badge
+    </h2>
+
+    <div class="card position-relative mx-auto shadow" style="width:22rem;">
+
+        <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+            5
+        </span>
+
+        <div class="card-body">
+
+            <h4 class="card-title">
+                Messages
+            </h4>
+
+            <p class="card-text">
+                You have unread notifications waiting for you.
+            </p>
+
+            <button class="btn btn-primary">
+                Open Inbox
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
