@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Exercise 14</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container mt-5">
+
+    <h2 class="text-center mb-4">
+        Exercise 14.1 - Display & Visibility
+    </h2>
+
+    <!-- Hidden on all screens -->
+    <div class="d-none bg-danger text-white p-3 mb-3 rounded">
+        This section is hidden on all screen sizes.
+    </div>
+
+    <!-- Visible only on medium screens and above -->
+    <div class="d-none d-md-block bg-success text-white p-3 mb-3 rounded">
+        Visible on Medium (Tablet) and Large screens.
+    </div>
+
+    <!-- Flex layout only on large screens -->
+    <div class="d-none d-lg-flex justify-content-between bg-primary text-white p-3 rounded mb-5">
+
+        <span>Left Item</span>
+
+        <span>Center Item</span>
+
+        <span>Right Item</span>
+
+    </div>
+
+    <hr class="my-5">
+
+    <h2 class="text-center mb-4">
+        Exercise 14.2 - Responsive Sidebar
+    </h2>
+
+    <div class="row">
+
+        <div class="col-md-3 d-none d-md-block">
+
+            <div class="sidebar">
+
+                <h4>Sidebar</h4>
+
+                <ul class="list-unstyled">
+                    <li>Dashboard</li>
+                    <li>Profile</li>
+                    <li>Settings</li>
+                    <li>Logout</li>
+                </ul>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-9">
+
+            <div class="content">
+
+                <h3>Main Content</h3>
+
+                <p>
+                    The sidebar is only visible on tablets and desktop screens.
+                    On mobile devices, only this content is displayed.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+body{
+    background:#f8f9fa;
+}
+
+img{
+    width:180px;
+    height:180px;
+    object-fit:cover;
+}
+
+.card{
+    max-width:500px;
+    margin:auto;
+}
