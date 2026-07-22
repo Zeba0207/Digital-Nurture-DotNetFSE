@@ -1,0 +1,12 @@
+.alignment-box{
+    height:250px;
+    border:2px dashed gray;
+}
+
+.box{
+    padding:40px;
+    text-align:center;
+    font-size:22px;
+    font-weight:bold;
+    border-radius:10px;
+}
