@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\bin\Debug\net8.0\Exercise05_GradeCalculation.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\bin\Debug\net8.0\Exercise05_GradeCalculation.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\bin\Debug\net8.0\Exercise05_GradeCalculation.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\bin\Debug\net8.0\Exercise05_GradeCalculation.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\bin\Debug\net8.0\Exercise05_GradeCalculation.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\obj\Debug\net8.0\Exercise05_GradeCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\obj\Debug\net8.0\Exercise05_GradeCalculation.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\obj\Debug\net8.0\Exercise05_GradeCalculation.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\obj\Debug\net8.0\Exercise05_GradeCalculation.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\obj\Debug\net8.0\Exercise05_GradeCalculation.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\obj\Debug\net8.0\refint\Exercise05_GradeCalculation.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\obj\Debug\net8.0\Exercise05_GradeCalculation.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\obj\Debug\net8.0\Exercise05_GradeCalculation.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise05_GradeCalculation\obj\Debug\net8.0\ref\Exercise05_GradeCalculation.dll

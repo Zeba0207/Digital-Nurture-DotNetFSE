@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\bin\Debug\net8.0\Exercise04_TypeInference.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\bin\Debug\net8.0\Exercise04_TypeInference.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\bin\Debug\net8.0\Exercise04_TypeInference.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\bin\Debug\net8.0\Exercise04_TypeInference.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\bin\Debug\net8.0\Exercise04_TypeInference.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\obj\Debug\net8.0\Exercise04_TypeInference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\obj\Debug\net8.0\Exercise04_TypeInference.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\obj\Debug\net8.0\Exercise04_TypeInference.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\obj\Debug\net8.0\Exercise04_TypeInference.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\obj\Debug\net8.0\Exercise04_TypeInference.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\obj\Debug\net8.0\refint\Exercise04_TypeInference.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\obj\Debug\net8.0\Exercise04_TypeInference.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\obj\Debug\net8.0\Exercise04_TypeInference.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise04_TypeInference\obj\Debug\net8.0\ref\Exercise04_TypeInference.dll
