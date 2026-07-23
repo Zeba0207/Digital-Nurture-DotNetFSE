@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\bin\Debug\net8.0\Exercise11_AccessModifiers.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\bin\Debug\net8.0\Exercise11_AccessModifiers.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\bin\Debug\net8.0\Exercise11_AccessModifiers.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\bin\Debug\net8.0\Exercise11_AccessModifiers.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\bin\Debug\net8.0\Exercise11_AccessModifiers.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\obj\Debug\net8.0\Exercise11_AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\obj\Debug\net8.0\Exercise11_AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\obj\Debug\net8.0\Exercise11_AccessModifiers.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\obj\Debug\net8.0\Exercise11_AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\obj\Debug\net8.0\Exercise11_AccessModifiers.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\obj\Debug\net8.0\refint\Exercise11_AccessModifiers.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\obj\Debug\net8.0\Exercise11_AccessModifiers.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\obj\Debug\net8.0\Exercise11_AccessModifiers.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise11_AccessModifiers\obj\Debug\net8.0\ref\Exercise11_AccessModifiers.dll

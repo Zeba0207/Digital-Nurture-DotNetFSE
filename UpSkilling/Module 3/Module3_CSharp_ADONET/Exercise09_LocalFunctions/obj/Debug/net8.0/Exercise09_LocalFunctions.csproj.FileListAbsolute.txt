@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\bin\Debug\net8.0\Exercise09_LocalFunctions.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\bin\Debug\net8.0\Exercise09_LocalFunctions.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\bin\Debug\net8.0\Exercise09_LocalFunctions.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\bin\Debug\net8.0\Exercise09_LocalFunctions.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\bin\Debug\net8.0\Exercise09_LocalFunctions.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\obj\Debug\net8.0\Exercise09_LocalFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\obj\Debug\net8.0\Exercise09_LocalFunctions.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\obj\Debug\net8.0\Exercise09_LocalFunctions.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\obj\Debug\net8.0\Exercise09_LocalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\obj\Debug\net8.0\Exercise09_LocalFunctions.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\obj\Debug\net8.0\refint\Exercise09_LocalFunctions.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\obj\Debug\net8.0\Exercise09_LocalFunctions.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\obj\Debug\net8.0\Exercise09_LocalFunctions.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise09_LocalFunctions\obj\Debug\net8.0\ref\Exercise09_LocalFunctions.dll

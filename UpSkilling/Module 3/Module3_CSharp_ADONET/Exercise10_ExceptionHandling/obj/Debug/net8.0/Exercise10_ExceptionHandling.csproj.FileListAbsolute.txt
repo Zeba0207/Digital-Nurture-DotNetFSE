@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\bin\Debug\net8.0\Exercise10_ExceptionHandling.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\bin\Debug\net8.0\Exercise10_ExceptionHandling.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\bin\Debug\net8.0\Exercise10_ExceptionHandling.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\bin\Debug\net8.0\Exercise10_ExceptionHandling.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\bin\Debug\net8.0\Exercise10_ExceptionHandling.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\obj\Debug\net8.0\Exercise10_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\obj\Debug\net8.0\Exercise10_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\obj\Debug\net8.0\Exercise10_ExceptionHandling.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\obj\Debug\net8.0\Exercise10_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\obj\Debug\net8.0\Exercise10_ExceptionHandling.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\obj\Debug\net8.0\refint\Exercise10_ExceptionHandling.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\obj\Debug\net8.0\Exercise10_ExceptionHandling.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\obj\Debug\net8.0\Exercise10_ExceptionHandling.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise10_ExceptionHandling\obj\Debug\net8.0\ref\Exercise10_ExceptionHandling.dll
