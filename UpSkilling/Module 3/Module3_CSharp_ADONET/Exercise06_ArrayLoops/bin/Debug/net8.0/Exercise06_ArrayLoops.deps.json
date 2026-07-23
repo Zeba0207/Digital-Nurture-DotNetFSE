@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercise06_ArrayLoops/1.0.0": {
+        "runtime": {
+          "Exercise06_ArrayLoops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise06_ArrayLoops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

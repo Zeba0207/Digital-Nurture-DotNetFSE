@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\bin\Debug\net8.0\Exercise06_ArrayLoops.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\bin\Debug\net8.0\Exercise06_ArrayLoops.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\bin\Debug\net8.0\Exercise06_ArrayLoops.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\bin\Debug\net8.0\Exercise06_ArrayLoops.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\bin\Debug\net8.0\Exercise06_ArrayLoops.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\obj\Debug\net8.0\Exercise06_ArrayLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\obj\Debug\net8.0\Exercise06_ArrayLoops.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\obj\Debug\net8.0\Exercise06_ArrayLoops.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\obj\Debug\net8.0\Exercise06_ArrayLoops.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\obj\Debug\net8.0\Exercise06_ArrayLoops.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\obj\Debug\net8.0\refint\Exercise06_ArrayLoops.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\obj\Debug\net8.0\Exercise06_ArrayLoops.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\obj\Debug\net8.0\Exercise06_ArrayLoops.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise06_ArrayLoops\obj\Debug\net8.0\ref\Exercise06_ArrayLoops.dll
