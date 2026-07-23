@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\bin\Debug\net8.0\Exercise02_ValueVsReference.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\bin\Debug\net8.0\Exercise02_ValueVsReference.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\bin\Debug\net8.0\Exercise02_ValueVsReference.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\bin\Debug\net8.0\Exercise02_ValueVsReference.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\bin\Debug\net8.0\Exercise02_ValueVsReference.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\obj\Debug\net8.0\Exercise02_ValueVsReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\obj\Debug\net8.0\Exercise02_ValueVsReference.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\obj\Debug\net8.0\Exercise02_ValueVsReference.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\obj\Debug\net8.0\Exercise02_ValueVsReference.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\obj\Debug\net8.0\Exercise02_ValueVsReference.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\obj\Debug\net8.0\refint\Exercise02_ValueVsReference.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\obj\Debug\net8.0\Exercise02_ValueVsReference.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\obj\Debug\net8.0\Exercise02_ValueVsReference.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise02_ValueVsReference\obj\Debug\net8.0\ref\Exercise02_ValueVsReference.dll

@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\bin\Debug\net8.0\Exercise03_PrimaryConstructors.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\bin\Debug\net8.0\Exercise03_PrimaryConstructors.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\bin\Debug\net8.0\Exercise03_PrimaryConstructors.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\bin\Debug\net8.0\Exercise03_PrimaryConstructors.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\bin\Debug\net8.0\Exercise03_PrimaryConstructors.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\obj\Debug\net8.0\Exercise03_PrimaryConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\obj\Debug\net8.0\Exercise03_PrimaryConstructors.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\obj\Debug\net8.0\Exercise03_PrimaryConstructors.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\obj\Debug\net8.0\Exercise03_PrimaryConstructors.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\obj\Debug\net8.0\Exercise03_PrimaryConstructors.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\obj\Debug\net8.0\refint\Exercise03_PrimaryConstructors.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\obj\Debug\net8.0\Exercise03_PrimaryConstructors.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\obj\Debug\net8.0\Exercise03_PrimaryConstructors.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise03_PrimaryConstructors\obj\Debug\net8.0\ref\Exercise03_PrimaryConstructors.dll
