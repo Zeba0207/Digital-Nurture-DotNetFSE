@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\bin\Debug\net8.0\Exercise12_AutoProperties.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\bin\Debug\net8.0\Exercise12_AutoProperties.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\bin\Debug\net8.0\Exercise12_AutoProperties.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\bin\Debug\net8.0\Exercise12_AutoProperties.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\bin\Debug\net8.0\Exercise12_AutoProperties.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\obj\Debug\net8.0\Exercise12_AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\obj\Debug\net8.0\Exercise12_AutoProperties.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\obj\Debug\net8.0\Exercise12_AutoProperties.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\obj\Debug\net8.0\Exercise12_AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\obj\Debug\net8.0\Exercise12_AutoProperties.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\obj\Debug\net8.0\refint\Exercise12_AutoProperties.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\obj\Debug\net8.0\Exercise12_AutoProperties.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\obj\Debug\net8.0\Exercise12_AutoProperties.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise12_AutoProperties\obj\Debug\net8.0\ref\Exercise12_AutoProperties.dll

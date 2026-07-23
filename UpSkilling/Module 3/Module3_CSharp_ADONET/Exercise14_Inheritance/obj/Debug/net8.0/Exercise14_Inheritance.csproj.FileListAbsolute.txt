@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\bin\Debug\net8.0\Exercise14_Inheritance.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\bin\Debug\net8.0\Exercise14_Inheritance.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\bin\Debug\net8.0\Exercise14_Inheritance.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\bin\Debug\net8.0\Exercise14_Inheritance.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\bin\Debug\net8.0\Exercise14_Inheritance.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\obj\Debug\net8.0\Exercise14_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\obj\Debug\net8.0\Exercise14_Inheritance.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\obj\Debug\net8.0\Exercise14_Inheritance.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\obj\Debug\net8.0\Exercise14_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\obj\Debug\net8.0\Exercise14_Inheritance.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\obj\Debug\net8.0\refint\Exercise14_Inheritance.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\obj\Debug\net8.0\Exercise14_Inheritance.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\obj\Debug\net8.0\Exercise14_Inheritance.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise14_Inheritance\obj\Debug\net8.0\ref\Exercise14_Inheritance.dll
