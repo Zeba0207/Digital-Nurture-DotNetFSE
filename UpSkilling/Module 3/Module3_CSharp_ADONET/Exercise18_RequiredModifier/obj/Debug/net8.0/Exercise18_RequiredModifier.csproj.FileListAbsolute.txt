@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\bin\Debug\net8.0\Exercise18_RequiredModifier.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\bin\Debug\net8.0\Exercise18_RequiredModifier.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\bin\Debug\net8.0\Exercise18_RequiredModifier.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\bin\Debug\net8.0\Exercise18_RequiredModifier.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\bin\Debug\net8.0\Exercise18_RequiredModifier.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\obj\Debug\net8.0\Exercise18_RequiredModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\obj\Debug\net8.0\Exercise18_RequiredModifier.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\obj\Debug\net8.0\Exercise18_RequiredModifier.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\obj\Debug\net8.0\Exercise18_RequiredModifier.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\obj\Debug\net8.0\Exercise18_RequiredModifier.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\obj\Debug\net8.0\refint\Exercise18_RequiredModifier.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\obj\Debug\net8.0\Exercise18_RequiredModifier.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\obj\Debug\net8.0\Exercise18_RequiredModifier.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise18_RequiredModifier\obj\Debug\net8.0\ref\Exercise18_RequiredModifier.dll

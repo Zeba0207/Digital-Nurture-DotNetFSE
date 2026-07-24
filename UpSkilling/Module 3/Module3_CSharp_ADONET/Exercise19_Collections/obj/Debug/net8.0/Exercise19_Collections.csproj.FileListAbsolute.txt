@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\bin\Debug\net8.0\Exercise19_Collections.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\bin\Debug\net8.0\Exercise19_Collections.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\bin\Debug\net8.0\Exercise19_Collections.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\bin\Debug\net8.0\Exercise19_Collections.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\bin\Debug\net8.0\Exercise19_Collections.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\obj\Debug\net8.0\Exercise19_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\obj\Debug\net8.0\Exercise19_Collections.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\obj\Debug\net8.0\Exercise19_Collections.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\obj\Debug\net8.0\Exercise19_Collections.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\obj\Debug\net8.0\Exercise19_Collections.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\obj\Debug\net8.0\refint\Exercise19_Collections.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\obj\Debug\net8.0\Exercise19_Collections.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\obj\Debug\net8.0\Exercise19_Collections.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise19_Collections\obj\Debug\net8.0\ref\Exercise19_Collections.dll
