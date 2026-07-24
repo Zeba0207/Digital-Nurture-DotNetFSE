@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\bin\Debug\net8.0\Exercise17_NullConditionalChaining.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\bin\Debug\net8.0\Exercise17_NullConditionalChaining.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\bin\Debug\net8.0\Exercise17_NullConditionalChaining.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\bin\Debug\net8.0\Exercise17_NullConditionalChaining.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\bin\Debug\net8.0\Exercise17_NullConditionalChaining.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\obj\Debug\net8.0\Exercise17_NullConditionalChaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\obj\Debug\net8.0\Exercise17_NullConditionalChaining.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\obj\Debug\net8.0\Exercise17_NullConditionalChaining.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\obj\Debug\net8.0\Exercise17_NullConditionalChaining.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\obj\Debug\net8.0\Exercise17_NullConditionalChaining.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\obj\Debug\net8.0\refint\Exercise17_NullConditionalChaining.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\obj\Debug\net8.0\Exercise17_NullConditionalChaining.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\obj\Debug\net8.0\Exercise17_NullConditionalChaining.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise17_NullConditionalChaining\obj\Debug\net8.0\ref\Exercise17_NullConditionalChaining.dll

@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\bin\Debug\net8.0\Exercise16_NullReferences.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\bin\Debug\net8.0\Exercise16_NullReferences.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\bin\Debug\net8.0\Exercise16_NullReferences.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\bin\Debug\net8.0\Exercise16_NullReferences.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\bin\Debug\net8.0\Exercise16_NullReferences.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\obj\Debug\net8.0\Exercise16_NullReferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\obj\Debug\net8.0\Exercise16_NullReferences.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\obj\Debug\net8.0\Exercise16_NullReferences.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\obj\Debug\net8.0\Exercise16_NullReferences.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\obj\Debug\net8.0\Exercise16_NullReferences.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\obj\Debug\net8.0\refint\Exercise16_NullReferences.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\obj\Debug\net8.0\Exercise16_NullReferences.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\obj\Debug\net8.0\Exercise16_NullReferences.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise16_NullReferences\obj\Debug\net8.0\ref\Exercise16_NullReferences.dll

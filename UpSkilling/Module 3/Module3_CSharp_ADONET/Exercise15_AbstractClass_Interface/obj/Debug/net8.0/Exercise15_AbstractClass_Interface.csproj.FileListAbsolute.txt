@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\bin\Debug\net8.0\Exercise15_AbstractClass_Interface.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\bin\Debug\net8.0\Exercise15_AbstractClass_Interface.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\bin\Debug\net8.0\Exercise15_AbstractClass_Interface.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\bin\Debug\net8.0\Exercise15_AbstractClass_Interface.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\bin\Debug\net8.0\Exercise15_AbstractClass_Interface.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\obj\Debug\net8.0\Exercise15_AbstractClass_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\obj\Debug\net8.0\Exercise15_AbstractClass_Interface.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\obj\Debug\net8.0\Exercise15_AbstractClass_Interface.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\obj\Debug\net8.0\Exercise15_AbstractClass_Interface.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\obj\Debug\net8.0\Exercise15_AbstractClass_Interface.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\obj\Debug\net8.0\refint\Exercise15_AbstractClass_Interface.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\obj\Debug\net8.0\Exercise15_AbstractClass_Interface.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\obj\Debug\net8.0\Exercise15_AbstractClass_Interface.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise15_AbstractClass_Interface\obj\Debug\net8.0\ref\Exercise15_AbstractClass_Interface.dll
