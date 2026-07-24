@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\bin\Debug\net8.0\Exercise21_PatternMatching.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\bin\Debug\net8.0\Exercise21_PatternMatching.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\bin\Debug\net8.0\Exercise21_PatternMatching.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\bin\Debug\net8.0\Exercise21_PatternMatching.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\bin\Debug\net8.0\Exercise21_PatternMatching.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\obj\Debug\net8.0\Exercise21_PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\obj\Debug\net8.0\Exercise21_PatternMatching.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\obj\Debug\net8.0\Exercise21_PatternMatching.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\obj\Debug\net8.0\Exercise21_PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\obj\Debug\net8.0\Exercise21_PatternMatching.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\obj\Debug\net8.0\refint\Exercise21_PatternMatching.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\obj\Debug\net8.0\Exercise21_PatternMatching.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\obj\Debug\net8.0\Exercise21_PatternMatching.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise21_PatternMatching\obj\Debug\net8.0\ref\Exercise21_PatternMatching.dll

@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\bin\Debug\net8.0\Exercise23_AsyncFileUpload.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\bin\Debug\net8.0\Exercise23_AsyncFileUpload.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\bin\Debug\net8.0\Exercise23_AsyncFileUpload.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\bin\Debug\net8.0\Exercise23_AsyncFileUpload.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\bin\Debug\net8.0\Exercise23_AsyncFileUpload.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\obj\Debug\net8.0\Exercise23_AsyncFileUpload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\obj\Debug\net8.0\Exercise23_AsyncFileUpload.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\obj\Debug\net8.0\Exercise23_AsyncFileUpload.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\obj\Debug\net8.0\Exercise23_AsyncFileUpload.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\obj\Debug\net8.0\Exercise23_AsyncFileUpload.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\obj\Debug\net8.0\refint\Exercise23_AsyncFileUpload.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\obj\Debug\net8.0\Exercise23_AsyncFileUpload.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\obj\Debug\net8.0\Exercise23_AsyncFileUpload.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise23_AsyncFileUpload\obj\Debug\net8.0\ref\Exercise23_AsyncFileUpload.dll
