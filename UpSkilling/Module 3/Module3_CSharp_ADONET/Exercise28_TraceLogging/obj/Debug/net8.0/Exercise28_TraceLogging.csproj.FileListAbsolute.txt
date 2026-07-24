@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\bin\Debug\net8.0\Exercise28_TraceLogging.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\bin\Debug\net8.0\Exercise28_TraceLogging.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\bin\Debug\net8.0\Exercise28_TraceLogging.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\bin\Debug\net8.0\Exercise28_TraceLogging.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\bin\Debug\net8.0\Exercise28_TraceLogging.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\obj\Debug\net8.0\Exercise28_TraceLogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\obj\Debug\net8.0\Exercise28_TraceLogging.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\obj\Debug\net8.0\Exercise28_TraceLogging.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\obj\Debug\net8.0\Exercise28_TraceLogging.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\obj\Debug\net8.0\Exercise28_TraceLogging.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\obj\Debug\net8.0\refint\Exercise28_TraceLogging.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\obj\Debug\net8.0\Exercise28_TraceLogging.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\obj\Debug\net8.0\Exercise28_TraceLogging.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise28_TraceLogging\obj\Debug\net8.0\ref\Exercise28_TraceLogging.dll

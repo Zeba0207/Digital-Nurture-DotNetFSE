@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\bin\Debug\net8.0\Exercise27_Deadlock.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\bin\Debug\net8.0\Exercise27_Deadlock.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\bin\Debug\net8.0\Exercise27_Deadlock.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\bin\Debug\net8.0\Exercise27_Deadlock.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\bin\Debug\net8.0\Exercise27_Deadlock.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\obj\Debug\net8.0\Exercise27_Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\obj\Debug\net8.0\Exercise27_Deadlock.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\obj\Debug\net8.0\Exercise27_Deadlock.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\obj\Debug\net8.0\Exercise27_Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\obj\Debug\net8.0\Exercise27_Deadlock.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\obj\Debug\net8.0\refint\Exercise27_Deadlock.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\obj\Debug\net8.0\Exercise27_Deadlock.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\obj\Debug\net8.0\Exercise27_Deadlock.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise27_Deadlock\obj\Debug\net8.0\ref\Exercise27_Deadlock.dll

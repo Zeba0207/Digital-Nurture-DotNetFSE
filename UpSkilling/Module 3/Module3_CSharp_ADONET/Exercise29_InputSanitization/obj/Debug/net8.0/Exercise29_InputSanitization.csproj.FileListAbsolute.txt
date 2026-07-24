@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\bin\Debug\net8.0\Exercise29_InputSanitization.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\bin\Debug\net8.0\Exercise29_InputSanitization.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\bin\Debug\net8.0\Exercise29_InputSanitization.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\bin\Debug\net8.0\Exercise29_InputSanitization.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\bin\Debug\net8.0\Exercise29_InputSanitization.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\obj\Debug\net8.0\Exercise29_InputSanitization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\obj\Debug\net8.0\Exercise29_InputSanitization.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\obj\Debug\net8.0\Exercise29_InputSanitization.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\obj\Debug\net8.0\Exercise29_InputSanitization.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\obj\Debug\net8.0\Exercise29_InputSanitization.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\obj\Debug\net8.0\refint\Exercise29_InputSanitization.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\obj\Debug\net8.0\Exercise29_InputSanitization.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\obj\Debug\net8.0\Exercise29_InputSanitization.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise29_InputSanitization\obj\Debug\net8.0\ref\Exercise29_InputSanitization.dll

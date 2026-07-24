@@ -1,0 +1,7 @@
+==================================
+Application Started
+Date & Time : 23-07-2026 11:36:40
+Addition Result : 30
+Operation Completed Successfully
+Application Ended
+==================================

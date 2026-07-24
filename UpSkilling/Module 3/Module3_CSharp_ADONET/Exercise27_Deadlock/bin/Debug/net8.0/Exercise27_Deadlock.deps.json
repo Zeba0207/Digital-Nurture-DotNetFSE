@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercise27_Deadlock/1.0.0": {
+        "runtime": {
+          "Exercise27_Deadlock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise27_Deadlock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
