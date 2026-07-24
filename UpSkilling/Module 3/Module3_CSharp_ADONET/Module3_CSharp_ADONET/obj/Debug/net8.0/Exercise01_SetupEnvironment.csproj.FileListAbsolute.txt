@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\bin\Debug\net8.0\Exercise01_SetupEnvironment.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\bin\Debug\net8.0\Exercise01_SetupEnvironment.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\bin\Debug\net8.0\Exercise01_SetupEnvironment.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\bin\Debug\net8.0\Exercise01_SetupEnvironment.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\bin\Debug\net8.0\Exercise01_SetupEnvironment.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\obj\Debug\net8.0\Exercise01_SetupEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\obj\Debug\net8.0\Exercise01_SetupEnvironment.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\obj\Debug\net8.0\Exercise01_SetupEnvironment.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\obj\Debug\net8.0\Exercise01_SetupEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\obj\Debug\net8.0\Exercise01_SetupEnvironment.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\obj\Debug\net8.0\refint\Exercise01_SetupEnvironment.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\obj\Debug\net8.0\Exercise01_SetupEnvironment.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\obj\Debug\net8.0\Exercise01_SetupEnvironment.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Module3_CSharp_ADONET\obj\Debug\net8.0\ref\Exercise01_SetupEnvironment.dll
