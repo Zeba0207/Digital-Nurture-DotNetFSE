@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\bin\Debug\net8.0\Exercise25_FileStreamMemoryStream.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\bin\Debug\net8.0\Exercise25_FileStreamMemoryStream.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\bin\Debug\net8.0\Exercise25_FileStreamMemoryStream.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\bin\Debug\net8.0\Exercise25_FileStreamMemoryStream.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\bin\Debug\net8.0\Exercise25_FileStreamMemoryStream.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\obj\Debug\net8.0\Exercise25_FileStreamMemoryStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\obj\Debug\net8.0\Exercise25_FileStreamMemoryStream.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\obj\Debug\net8.0\Exercise25_FileStreamMemoryStream.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\obj\Debug\net8.0\Exercise25_FileStreamMemoryStream.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\obj\Debug\net8.0\Exercise25_FileStreamMemoryStream.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\obj\Debug\net8.0\refint\Exercise25_FileStreamMemoryStream.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\obj\Debug\net8.0\Exercise25_FileStreamMemoryStream.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\obj\Debug\net8.0\Exercise25_FileStreamMemoryStream.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise25_FileStreamMemoryStream\obj\Debug\net8.0\ref\Exercise25_FileStreamMemoryStream.dll

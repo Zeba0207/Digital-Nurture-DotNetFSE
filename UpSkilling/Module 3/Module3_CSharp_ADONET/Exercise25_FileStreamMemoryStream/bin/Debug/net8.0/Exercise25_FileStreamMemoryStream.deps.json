@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercise25_FileStreamMemoryStream/1.0.0": {
+        "runtime": {
+          "Exercise25_FileStreamMemoryStream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise25_FileStreamMemoryStream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\bin\Debug\net8.0\Exercise24_JSONSerialization.exe
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\bin\Debug\net8.0\Exercise24_JSONSerialization.deps.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\bin\Debug\net8.0\Exercise24_JSONSerialization.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\bin\Debug\net8.0\Exercise24_JSONSerialization.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\bin\Debug\net8.0\Exercise24_JSONSerialization.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\obj\Debug\net8.0\Exercise24_JSONSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\obj\Debug\net8.0\Exercise24_JSONSerialization.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\obj\Debug\net8.0\Exercise24_JSONSerialization.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\obj\Debug\net8.0\Exercise24_JSONSerialization.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\obj\Debug\net8.0\Exercise24_JSONSerialization.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\obj\Debug\net8.0\refint\Exercise24_JSONSerialization.dll
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\obj\Debug\net8.0\Exercise24_JSONSerialization.pdb
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\obj\Debug\net8.0\Exercise24_JSONSerialization.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\Cognizant\UpSkilling\CSharp-ADONET\Module3_CSharp_ADONET\Exercise24_JSONSerialization\obj\Debug\net8.0\ref\Exercise24_JSONSerialization.dll
